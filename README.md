@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning CS:APP.
 - 👯 I’m looking to collaborate on some like-minded friends
 - 🤔 I’m looking for help with my summer internship
-- 📫 How to reach me: 2229553982@qq.com / brianclarkxx@gmail.com
+- 📫 How to reach me: brianclarkxx@gmail.com / 2229553982@qq.com
 - 😄 Pronouns: he/him
