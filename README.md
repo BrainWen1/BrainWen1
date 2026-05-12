@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning computer-networking.
+- 🌱 I’m currently learning Go-Web-development.
 - 👯 I’m looking to collaborate on some like-minded friends
 - 🤔 I’m looking for help with my summer internship
 - 📫 How to reach me: brianclarkxx@gmail.com / 2229553982@qq.com
